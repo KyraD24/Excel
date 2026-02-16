@@ -9,4 +9,5 @@ This data set represents the product categories by country.
 
 
 This dataset represents Product comparrison by Age group.
+
 <img width="511" height="473" alt="Image" src="https://github.com/user-attachments/assets/e00452e0-9dda-472d-bac7-40f7c1e52f63" />
