@@ -9,6 +9,15 @@
 - Then changed it to **"English (United States.)"** Then I did the same thing for C and I also expanded the column.
 - I doubled clicked on **"12-month revenue"** and changed the name to **"Annual Profit"**
 - I did the same with **"12-month profit"** but instead named it **"Annual Profit"**
+- Double click on the line graph and **"chart format"** should appear.
+- Press the **"down arrow on Legend"** and on position press the option for right.
+- Press **"Verticle Axis"** and scroll until I saw an option for **"Axis title"** then I changed the name to **"US Dollars"**
+- Then I did the same for the Horizontal Axis changing the title too **"Year"**
+- I then changed the US Dollars Minimum and Maximum, I made the minimum 0 and the Maximum 35,000,000.
+- Vertical Axis -> Number Format -> Cureency.
+- I selected the Series **"Annual Profit"** and changed the outline I did the same for **"Annual Revenue"**
+- Then the **"Marker Options"** I changed the colour of the markers **outline** and **fill** to the same as I already used.
+- After I got stuck and couldn't scale the graph so all the information shown so I got help.
 
   # How I made the graph.
   - I clicked on isert and in **"Charts"** area I pressed the **"down arrow on the line graph"** then selected the **"Stacked line."**
