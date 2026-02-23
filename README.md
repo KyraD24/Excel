@@ -4,7 +4,8 @@
 <img width="914" height="316" alt="Image" src="https://github.com/user-attachments/assets/a5f777ad-49c0-401a-a908-b68eedf65441" />
 
 # What data is showing
-- The data shows the annual profit by annual revenue showing a staedy increase for both.
+- From year 2018 - 2019 revenue and profits decreased pre covid.
+- After 2020 the revenue and profits have increased rapidly.
 
 # This data set represents the product categories by country.
 <img width="663" height="510" alt="Image" src="https://github.com/user-attachments/assets/55473b7c-3f85-42cf-b746-17ec64e9b3c8" />
